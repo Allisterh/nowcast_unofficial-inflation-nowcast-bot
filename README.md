@@ -11,6 +11,6 @@ A few reasons:
 3. Official Twitter accounts like [@ClevelandFed](https://twitter.com/ClevelandFed) and [@ClevFedResearch](https://twitter.com/ClevFedResearch) did not appear to be sharing nowcasts via Twitter, versus sharing results of the actual releases themselves.
 4. 
 
-### Index:
+# Index:
 * Text
 * More text
