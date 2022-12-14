@@ -6,7 +6,7 @@ This Twitter bot posts the [Federal Reserve Bank of Cleveland's](https://www.cle
 
 ## Why make this?
 A few reasons:
-1. This was something I found useful but did not find in existence at the time.
+1. This was something I thought would be useful but did not find in existence at the time.
 2. It did not appear the Cleveland Fed had an API and released raw data/forecasts via its [webpage](https://www.clevelandfed.org/indicators-and-data/inflation-nowcasting).
 
 ### Index:
