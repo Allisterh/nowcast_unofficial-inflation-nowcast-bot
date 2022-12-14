@@ -11,5 +11,5 @@ This Twitter bot posts the [Federal Reserve Bank of Cleveland's](https://www.cle
 4. As a hedge fund analyst, I noticed how research firms would crop up shortly before CPI releases to tout their inflation prediction models. On top of these models being locked behind paywalls, not all research firms would openly share the historical accuracy of their models. For those that did, the model fits would pale in comparison with the *free* nowcasts from the Cleveland Fed.
 
 # Index:
-* **[Preliminary](preliminary):** Outlines initial steps.
+* **[Preliminary](preliminary):** Outlines background initial steps for the project.
 * **[Code](code)**: Stores all the code, from scrapers to containers and more.
