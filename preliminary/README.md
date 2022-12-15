@@ -5,7 +5,7 @@ While a hedge fund analyst during a bout of inflation, market participants fixat
 
 ### Historical fit
 #### Accessing historical nowcasts
-At the time of writing (2022), the simplest way to access historical nowcasts is by navigating to the [nowcasts page](https://www.clevelandfed.org/indicators-and-data/inflation-nowcasting) and accessing historical data by `Year-Month` pair.
+At the time of writing, the simplest way to access historical nowcasts is by navigating to the [nowcasts page](https://www.clevelandfed.org/indicators-and-data/inflation-nowcasting) and accessing historical data by `Year-Month` pair.
 
 For example, from the FAQ section of the page:
 
