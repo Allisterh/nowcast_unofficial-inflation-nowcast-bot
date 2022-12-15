@@ -5,4 +5,7 @@ While a hedge fund analyst during a bout of inflation, market participants fixat
 
 ### Historical fit
 #### Accessing historical nowcasts
-At the time of writing (2022), the simplest way to access historical nowcasts is by navigating to [nowcasts page](https://www.clevelandfed.org/indicators-and-data/inflation-nowcasting) ...
+At the time of writing (2022), the simplest way to access historical nowcasts is by navigating to the [nowcasts page](https://www.clevelandfed.org/indicators-and-data/inflation-nowcasting) and accessing historical data by `Year-Month` pair. For example, from the FAQ section of the page:
+
+> **How do I compare the model's historical nowcasts with the actual data?**
+> The charting tool on the nowcasting website allows you to plot a sequence of nowcasts for previous months or quarters along with the actual inflation release (for simplicity, we display the first available data release corresponding to the quarter or month being nowcasted). This allows the user to see how close or far the model’s nowcasts were compared with what was actually released by the statistical agency (the BLS or the BEA). Typically, nowcasts early in the month or quarter are less precise than nowcasts made later in the month or quarter, because the early nowcasts are based on less information than later nowcasts.
