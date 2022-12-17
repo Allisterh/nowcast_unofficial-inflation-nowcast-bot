@@ -15,6 +15,6 @@ From the FAQ section of the page:
 
 Where the "charting tool" looks like:
 
-![Cleveland Fed nowcast charting tool for monthly (year-over-year) inflation](preliminary-images/nowcast_charting_tool.PNG)
+![Cleveland Fed nowcast charting tool for monthly (year-over-year) inflation](preliminary-images/nowcast_charting_tool.PNG | width=50)
 
 These historical nowcasts were accessed and stored using Selenium and a [Python script](https://github.com/limits-to-arbitrage/unofficial-inflation-nowcast-bot/blob/main/code/preliminary_code/historical_nowcasts_script.py) that loops through each `Year-Month` pair available, cleaning up the respective CSV files, and then merging them all into a [consolidated CSV file](historical_nowcasts.csv).
